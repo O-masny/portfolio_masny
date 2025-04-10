@@ -1,0 +1,10 @@
+@font-face {
+    font-family: switzer;
+    src:url("/assets/switzer/Switzer-Black.ttf");
+}
+.container{
+    height: 300vh;
+}
+.heading{
+font-family: "switzer"
+}
